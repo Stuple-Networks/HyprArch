@@ -1,0 +1,9 @@
+NAME="HyprArch"
+PRETTY_NAME="HyprArch"
+ID=hyprarch
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://hyprarch.stuple.net/"
+SUPPORT_URL="https://hyprarch.stuple.net/support"
+BUG_REPORT_URL="https://hyprarch.stuple.net/issues"
+LOGO=archlinux

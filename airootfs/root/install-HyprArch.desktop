@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Install Arch Linux
+Exec=sudo calamares
+Icon=calamares
+Terminal=false
