@@ -26,4 +26,6 @@ file_permissions=(
   ["/etc/sddm.conf.d/autologin.conf"]="0:0:644"
   ["/root/install-arch.desktop"]="0:0:755"
   ["/usr/bin/calamares"]="0:0:755"
+  ["/etc/mkinitcpio.d"]="0:0:755"
+  ["/etc/mkinitcpio.conf"]="0:0:644"
 )
