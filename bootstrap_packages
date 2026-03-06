@@ -1,2 +1,11 @@
 arch-install-scripts
 base
+linux
+linux-firmware
+grub
+nano
+vim
+networkmanager
+git
+mkinitcpio
+mkinitcpio-archiso
