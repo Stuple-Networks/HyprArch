@@ -127,11 +127,12 @@ xfsprogs
 xl2tpd
 zsh
 
-plasma
+hyprland
 git
 hyprpaper
 kitty
-
+plasma
+fastfetch
 rofi
 waybar
 qt6-wayland
