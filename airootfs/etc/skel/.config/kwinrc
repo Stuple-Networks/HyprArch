@@ -1,0 +1,15 @@
+[Desktops]
+Id_1=7939b111-c214-4547-8bb9-76098b7d817a
+Number=1
+Rows=1
+
+[Tiling][7939b111-c214-4547-8bb9-76098b7d817a][104c10ed-501a-4461-a3eb-6faf70117fb8]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Tiling][7939b111-c214-4547-8bb9-76098b7d817a][feb8c710-b9ea-4705-97ad-17d86946a0ea]
+padding=4
+tiles={"layoutDirection":"horizontal","tiles":[{"width":0.25},{"width":0.5},{"width":0.25}]}
+
+[Xwayland]
+Scale=1.25

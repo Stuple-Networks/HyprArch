@@ -132,4 +132,4 @@ export PATH=$ANDROID_HOME/cmdline-tools/bin:$PATH
 export PATH=$ANDROID_HOME/build-tools/34.0.0:$PATH
 export GTK_THEME=Adwaita:dark
 fastfetch
-startplasma-wayland
+
