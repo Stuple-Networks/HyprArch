@@ -13,5 +13,5 @@ if [[ -z $DISPLAY ]]; then
   fi
 
   # 3. Launch Plasma with a D-Bus session (This is what you're missing)
-  exec startplasma-wayland
+  
 fi
