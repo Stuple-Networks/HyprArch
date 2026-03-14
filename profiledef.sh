@@ -28,4 +28,6 @@ file_permissions=(
   ["/etc/mkinitcpio.d"]="0:0:755"
   ["/etc/mkinitcpio.conf"]="0:0:644"
   ["/usr/bin/post-install.sh"]="0:0:755"
+  ["/etc/systemd/system/getty@tty3.service.d/autologin.conf"]="0:0:644"
+  ["/etc/default/grub"]="0:0:644"
 )
