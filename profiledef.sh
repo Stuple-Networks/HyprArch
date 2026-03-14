@@ -27,4 +27,5 @@ file_permissions=(
   ["/usr/bin/calamares"]="0:0:755"
   ["/etc/mkinitcpio.d"]="0:0:755"
   ["/etc/mkinitcpio.conf"]="0:0:644"
+  ["/usr/bin/post-install.sh"]="0:0:755"
 )
