@@ -9,7 +9,7 @@ if [[ -z $DISPLAY ]]; then
   # 2. Install Calamares (Only if the file exists to prevent hanging)
   if [ -f /root/local_repo/calamares-*.pkg.tar.zst ]; then
       # Use -Sdd to skip dependency checks if you know they are installed
-      pacman -U --noconfirm /root/local_repo/calamares-*.pkg.tar.zst
+      #pacman -U --noconfirm /root/local_repo/calamares-*.pkg.tar.zst
   fi
 
   # 3. Launch Plasma with a D-Bus session (This is what you're missing)
